@@ -4,7 +4,7 @@
   <a href="https://prasunthapliyal.github.io/"><img src="https://github.com/PrasunThapliyal/PrasunThapliyal.github.io/blob/main/SpaceRocket.png" alt="Space Rocket" style="width:200px;height:200px;"></a>
 </picture>
 
-Here's something interesting: <a href="https://prasunthapliyal.github.io/">My Page</a>
+Click on the image to discover something new: <a href="https://prasunthapliyal.github.io/">The Space Rocket Project</a>
 
 
 <!--
